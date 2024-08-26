@@ -1,0 +1,33 @@
+.active {
+  font-weight: 800;
+}
+
+main {
+  height: 90svh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.home {
+  background-color: rgb(182, 255, 148);
+}
+
+.characters {
+  background-color: rgb(142, 255, 147);
+}
+
+.contact {
+  background-color: rgb(255, 108, 165);
+}
+
+.character {
+  background-color: rgb(178, 145, 255);
+}
